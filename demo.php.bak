@@ -5,5 +5,4 @@ echo "Demo new branch file";
 /*I am checking for new conflict*/
 echo "two new lines.";
 echo "on emore line";
-echo "third line";
 ?>
